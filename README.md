@@ -20,8 +20,8 @@ I am a passionate coder and software developer with a love for creating innovati
 
 ## Get in Touch
 
-- **LinkedIn**: https://www.linkedin.com/in/vanishka-gupta/(#) - Let's connect and explore potential collaborations.
-- **Email**: vanishka.s.gupta@gmail.com(#) - Drop me an email; I'd love to chat about tech, development, or anything interesting!
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/vanishka-gupta/) - Let's connect and explore potential collaborations.
+- **Email**: [email](vanishka.s.gupta@gmail.com) - Drop me an email; I'd love to chat about tech, development, or anything interesting!
 
 ## Let's Collaborate
 
