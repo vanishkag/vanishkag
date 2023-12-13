@@ -14,14 +14,14 @@ I am a passionate coder and software developer with a love for creating innovati
 
 ## What You'll Find Here
 
-- **Projects**: Explore my repositories for a variety of projects showcasing my skills in [mention specific languages, frameworks, or areas].
+- **Projects**: Explore my repositories for a variety of projects showcasing my skills in Python, JavaScript, MySQL.
 - **Contributions**: Check out my contributions to open-source projects and repositories I'm involved in.
 - **Learning**: I'm always learning and improving. Feel free to share feedback or collaborate on exciting projects.
 
 ## Get in Touch
 
-- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/vanishka-gupta/) - Let's connect and explore potential collaborations.
-- **Email**: [email](vanishka.s.gupta@gmail.com) - Drop me an email; I'd love to chat about tech, development, or anything interesting!
+- **LinkedIn**: [Vanishka Gupta](https://www.linkedin.com/in/vanishka-gupta/) - Let's connect and explore potential collaborations.
+- **Email**: [vanishka.s.gupta@gmail.com](vanishka.s.gupta@gmail.com) - Drop me an email; I'd love to chat about tech, development, or anything interesting!
 
 ## Let's Collaborate
 
