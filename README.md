@@ -1,14 +1,10 @@
-Certainly! Below is a README file you can use for your GitHub profile:
-
----
-
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Vanishka. 👋
 
 Welcome to my GitHub profile!
 
 ## About Me
 
-I am a passionate coder and software developer with a love for creating innovative solutions and diving deep into challenging problems. With a background in [mention any relevant educational background or work experience], I thrive on learning new technologies and frameworks to build robust and scalable software applications.
+I am a passionate coder and software developer with a love for creating innovative solutions and diving deep into challenging problems. As a 3rd year Computer Science student, I thrive on learning new technologies and frameworks to build robust and scalable software applications.
 
 ## My Interests
 
@@ -24,8 +20,8 @@ I am a passionate coder and software developer with a love for creating innovati
 
 ## Get in Touch
 
-- **LinkedIn**: [Your LinkedIn Profile](#) - Let's connect and explore potential collaborations.
-- **Email**: [Your Email Address](#) - Drop me an email; I'd love to chat about tech, development, or anything interesting!
+- **LinkedIn**: https://www.linkedin.com/in/vanishka-gupta/(#) - Let's connect and explore potential collaborations.
+- **Email**: vanishka.s.gupta@gmail.com(#) - Drop me an email; I'd love to chat about tech, development, or anything interesting!
 
 ## Let's Collaborate
 
@@ -34,7 +30,3 @@ If you're working on exciting projects or looking for collaboration opportunitie
 Thank you for visiting my GitHub profile! Feel free to explore my projects, leave feedback, or connect with me.
 
 Happy coding! 🚀
-
----
-
-Feel free to customize this README file with your specific information, add or remove sections according to your preferences, and make it uniquely yours.
