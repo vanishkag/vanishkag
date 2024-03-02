@@ -8,7 +8,6 @@ I am a passionate coder and software developer with a love for creating innovati
 
 - **Coding**: I enjoy crafting clean, efficient code and exploring various programming languages.
 - **Software Development**: I'm enthusiastic about software architecture, design patterns, and creating user-friendly applications.
-- **Open Source**: I actively contribute to open-source projects, sharing my knowledge and collaborating with the community.
 
 ## Get in Touch
 
