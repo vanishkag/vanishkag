@@ -17,7 +17,4 @@ I am a passionate coder and software developer with a love for creating innovati
 ## Let's Collaborate
 
 If you're working on exciting projects or looking for collaboration opportunities, don't hesitate to reach out. I'm always open to new ideas and collaborations.
-
-Thank you for visiting my GitHub profile! Feel free to explore my projects, leave feedback, or connect with me.
-
 Happy coding! 🚀
